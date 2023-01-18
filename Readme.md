@@ -1,7 +1,9 @@
 By : Warit Mahitti 
 
 Step :
-1. Fill account (Int) , password = "" , server = ""
+1. Fill account (Int)
+2. password = "" 
+3. server = ""
 
 Here, I tried it on MT5 as a demo account, it was a good starting point. In which you can try out my code or further develop it to make it profitable.
 
