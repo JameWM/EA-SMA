@@ -1,6 +1,6 @@
 ## By : Warit Mahitti 
 
-# Step :
+Step :
 ```
 1. Fill account (Int)
 2. password = "" 
